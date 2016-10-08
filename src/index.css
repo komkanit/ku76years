@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+@font-face{
+      font-family: 'Prompt-Black';
+      src: url('/src/fonts/Prompt-Black.otf');
+      font-style: normal;
+      font-weight: 100;
+}
+
+@font-face{
+      font-family: 'Prompt-Light';
+      src: url('/src/fonts/Prompt-Light.otf');
+      font-style: normal;
+      font-weight: normal;
+}
