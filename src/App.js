@@ -19,7 +19,7 @@ class App extends Component {
     return (
       <div className="container" style={{maxWidth: '700px'}}>
         <h1 className="text-center title">
-          ครบรอบ 76 ปี KU
+          สร้างรูปโปรไฟล์ครบรอบ 76 ปี KU
         </h1>
         <h2 className="caption">แนะนำให้ใช้งานด้วย Chrome บนคอมพิวเตอร์</h2>
         <div className="row edit-section">
