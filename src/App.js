@@ -5,7 +5,7 @@ import template from './template.png';
 
 class App extends Component {
   state = {
-    text1: 'ครบรอบ 76 ปี รอตะลับวันนี้ได้นั่งชาติหน้า',
+    text1: 'ครบรอบ 76 ปี รอตะลัยวันนี้ได้นั่งชาติหน้า',
     font1: 20,
     image: '',
     renderedImage: ''
