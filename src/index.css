@@ -4,15 +4,8 @@ body {
   font-family: sans-serif;
 }
 @font-face{
-      font-family: 'Prompt-Black';
-      src: url('/src/fonts/Prompt-Black.otf');
+      font-family: 'Kanit';
+      src: url('/src/fonts/Kanit-Regular.ttf');
       font-style: normal;
       font-weight: 100;
-}
-
-@font-face{
-      font-family: 'Prompt-Light';
-      src: url('/src/fonts/Prompt-Light.otf');
-      font-style: normal;
-      font-weight: normal;
 }

@@ -1,8 +1,8 @@
 {
-  "name": "ywc-quote",
+  "name": "ku-76",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://www.ywc.in.th/quote",
+  "homepage": "https://komcal.github.io/ku76",
   "devDependencies": {
     "babel-eslint": "6.1.2",
     "eslint": "3.1.1",
