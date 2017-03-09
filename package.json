@@ -52,8 +52,8 @@
   },
   "scripts": {
     "start": "node ./scripts/start.js",
-    "build": "node ./scripts/build.js",
-    "predeploy": "npm run build",
+    "build": "node ./scripts/build.js && cp ./share.png ./build/share.png",
+    "predeploy": "npm run build && cp ./share.png ./build/share.png",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
