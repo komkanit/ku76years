@@ -2,7 +2,7 @@
   "name": "ku-76",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://komcal.github.io/ku76year",
+  "homepage": "https://komcal.github.io/ku76years",
   "devDependencies": {
     "autoprefixer": "6.3.7",
     "babel-core": "6.11.4",
